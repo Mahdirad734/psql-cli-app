@@ -1,0 +1,9 @@
+argon2-cffi==25.1.0
+argon2-cffi-bindings==25.1.0
+bcrypt==5.0.0
+cffi==2.0.0
+Faker==39.0.0
+psycopg2-binary==2.9.11
+pycparser==2.23
+python-dotenv==1.2.1
+tzdata==2025.3
